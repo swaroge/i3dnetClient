@@ -1,6 +1,6 @@
-## I3Dnet Client Assessment
+## I3Dnet Client
 
-**Assessment used  Laravel v.9 and PHP 7.4**
+**Laravel v.9 and PHP 7.4**
 
 ### Installation 
 - `composer install`
