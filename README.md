@@ -2,16 +2,16 @@
 
 **Assessment used  Laravel v.9 and PHP 7.4**
 
-###Installation 
+### Installation 
 - `composer install`
 - `php artisan migrate`
 - `php artisan db:seed`
 
-###Commands
+### Commands
 - `php artisan app:fetch-details {apiKey}`
 - `php artisan app:fetch-logs {apiKey} --start=int|0 --results=int|10 --type=null|get|post|put|patch|delete`
 
-###Model/Tables
+### Model/Tables
 
 - `user` - default table for the auth in laravel package. Do not used in this assessment.
 - `account` - store the user info from i3d.net https://www.i3d.net/docs/api/v3/all#/Session/getUser
