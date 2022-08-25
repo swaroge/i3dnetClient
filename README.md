@@ -4,6 +4,7 @@
 
 ###Installation 
 - `composer install`
+- `cp .env.example  .env` and config the DB credos
 - `php artisan migrate`
 - `php artisan db:seed`
 
